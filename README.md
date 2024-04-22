@@ -44,6 +44,6 @@ Based on the data set we want to predict the safety of the car
 
 # Result and Conclusion
 
-1. I build a Random Forest Classifier to predict the safety of the car. I build two models, one with criterion = 'gini' and criterion = 'entropy'.
-2. The model accuracy for gini impurity is 0.8025 while entropy impurity is 0.8025. This shows, even after pruned the accuracy is same.
-3. Thus we preform a confusion matrix and classification report to visualize the model performance. The model accuracy is 0.82
+1.   I constructed a Random Forest Classifier to forecast the safety level of the car. Two models were developed, one employing the 'gini' criterion and the other utilizing the 'entropy' criterion.
+2.   The accuracy of the model using the 'gini' criterion is 0.8025, while the accuracy using the 'entropy' criterion is also 0.8025. This indicates that even after pruning, the accuracy remains consistent across both models.
+3.   Consequently, we conducted a confusion matrix and classification report to visualize the model's performance. The model achieved an accuracy of 0.82.
