@@ -1,7 +1,7 @@
 # DT-car
 Using Decision Tree on Classification
 
-Based on the data set we want to predict the cafety of the car
+Based on the data set we want to predict the safety of the car
 1. Import Library
    
 2. Load Data
