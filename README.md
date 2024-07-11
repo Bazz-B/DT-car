@@ -1,4 +1,4 @@
-# DT-car
+# Predict safety of car using Decision Tree
 Using Decision Tree on Classification
 
 Based on the data set we want to predict the safety of the car
